@@ -14,4 +14,3 @@ https://github.com/ProyectoIngenieriaUEM/grupos-pi-17-18-nfcard :link:
    :tm: TEAM : Carlos
    
    :copyright: GPL
-
