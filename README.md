@@ -1,6 +1,6 @@
 # cvcarlosct
 Curriculum Vitae de Carlos del Cerro Tenorio
-![la imagen no carga](index.png) 
+![la imagen no carga](cvcarlosct/index.PNG) 
 
 # Project :books:
 Created by ColorLib modified by Carlos del Cerro
